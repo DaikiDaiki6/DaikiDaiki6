@@ -8,16 +8,19 @@ I'm a passionate programmer based in the Philippines, currently diving deep into
 <h2>🧰 Languages and Tools</h2>
 
 <img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/python/python-original.svg" />
+<img align="left" alt="Django" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/django/django-plain.svg" />
+
 <img align="left" alt="PHP" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/php/php-original.svg" />
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/javascript/javascript-original.svg" />
 <img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/css3/css3-original.svg" />
+
 <img align="left" alt="Laravel" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/laravel/laravel-original.svg" />
 <img align="left" alt="Tailwind" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" />
-<img align="left" alt="Django" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/django/django-plain.svg" />
+
 <img align="left" alt="SQLite" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/sqlite/sqlite-original.svg" />
 <img align="left" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/mysql/mysql-original.svg" />
+
 <img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/git/git-original.svg" />
-<p> | </p>
 <img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="VS Code" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/vscode/vscode-original.svg" />
 <img align="left" alt="Figma" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/figma/figma-original.svg" /> <br /> <br /> <br />
