@@ -11,7 +11,7 @@ I'm a passionate programmer based in the Philippines, currently diving deep into
 
 <h2>📈 GitHub Stats</h2>
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaikiDaiki6&layout=compact&theme=radical" alt="Top Langs" /> </div>
+<div align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaikiDaiki6&layout=compact&theme=radical" alt="Top Langs" /> </div>
 
 
 <h2>🔗 Let's Connect</h2>
