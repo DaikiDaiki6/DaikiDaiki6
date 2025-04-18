@@ -18,8 +18,8 @@ I'm a passionate programmer based in the Philippines, currently diving deep into
 
 "Build, break, learn, repeat."
 
-# 🧠 Currently Learning
-
+# Addition Information
+<h2>🧠 Currently Learning</h2>
 <table>
   <tr>
     <td valign="top">
