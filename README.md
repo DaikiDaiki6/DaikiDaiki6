@@ -18,10 +18,10 @@ I'm a passionate programmer based in the Philippines, currently diving deep into
 
 "Build, break, learn, repeat."
 
-<h1 style="text-align: center;">Currently Learning</h1>
+<h1 style="text-align: center;">🧠 Currently Learning</h1>
 
-<div style="display: flex; flex-wrap: wrap;">
-    <div style="flex: 50%; padding: 10px; box-sizing: border-box;">
+<div style="display: flex;">
+    <div style="flex: 1; padding: 10px; box-sizing: border-box;">
         <ul style="list-style-type: disc; margin: 0; padding-left: 20px;">
             <li>Tailwind CSS</li>
             <li>Alpine.js</li>
@@ -29,7 +29,7 @@ I'm a passionate programmer based in the Philippines, currently diving deep into
             <li>Eloquent Relationships</li>
         </ul>
     </div>
-    <div style="flex: 50%; padding: 10px; box-sizing: border-box;">
+    <div style="flex: 1; padding: 10px; box-sizing: border-box;">
         <ul style="list-style-type: disc; margin: 0; padding-left: 20px;">
             <li>Project Testing</li>
             <li>Plotly Dash</li>
