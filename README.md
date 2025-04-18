@@ -1,6 +1,5 @@
-
-👋 Jeffrey Daquigan (Daiki)
-Programmer | Artist | Musician
+# 👋 Jeffrey Daquigan (Daiki)
+**` Programmer | Artist | Musician `**
 
 I'm a passionate programmer based in the Philippines, currently crafting a Shows List Website and diving deep into modern full-stack web development. I build things from scratch—whether it's front-end interfaces or back-end logic—and I love to learn, create, and iterate. When I'm not coding, I'm either sketching or making music 🎵🎨.
 
