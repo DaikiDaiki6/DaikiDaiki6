@@ -60,7 +60,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  ![DaikiDaiki6's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DaikiDaiki6&show_icons=true&theme=radical)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DaikiDaiki6&show_icons=true&theme=radical)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaikiDaiki6&layout=compact&theme=radical)
 </p>
 
 ---
