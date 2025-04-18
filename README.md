@@ -59,7 +59,7 @@
 
 ## 📊 Language used in Github
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaikiDaiki6&layout=compact&theme=radical)
+<center>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaikiDaiki6&layout=compact&theme=radical)</center>
 
 ---
 
