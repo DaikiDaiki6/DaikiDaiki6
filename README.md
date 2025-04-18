@@ -27,7 +27,7 @@ I'm a passionate programmer based in the Philippines, currently diving deep into
 
 <!-- Tools -->
 <img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/github/github-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="VS Code" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Figma" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/figma/figma-original.svg" style="padding-right:10px;" />
 
