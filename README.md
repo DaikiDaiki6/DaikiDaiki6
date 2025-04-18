@@ -17,7 +17,7 @@ I'm a passionate programmer based in the Philippines, currently diving deep into
 <img align="left" alt="SQLite" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/sqlite/sqlite-original.svg" />
 <img align="left" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/mysql/mysql-original.svg" />
 <img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/git/git-original.svg" />
-<h1>  |  </h1>
+<p> | </p>
 <img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="VS Code" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/vscode/vscode-original.svg" />
 <img align="left" alt="Figma" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/figma/figma-original.svg" /> <br /> <br /> <br />
