@@ -16,7 +16,9 @@ I'm a passionate programmer based in the Philippines, currently diving deep into
 💼 LinkedIn: Jeffrey Daquigan
 🌐 GitHub: DaikiDaiki6
 
-"Build, break, learn, repeat."
+<div align="center">
+  *`"Build, break, learn, repeat."`*
+</div>
 
 # Addition Information
 <h2>🧠 Currently Learning</h2>
