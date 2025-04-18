@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/DaikiDaiki6">
-    <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=blue" alt="profile views"/>
+    <img src="https://komarev.com/ghpvc/?username=DaikiDaiki6&style=flat-square&color=blue" alt="profile views"/>
   </a>
 </p>
 
