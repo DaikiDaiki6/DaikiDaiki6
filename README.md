@@ -18,15 +18,28 @@ I'm a passionate programmer based in the Philippines, currently diving deep into
 
 "Build, break, learn, repeat."
 
-<h1 style="text-align: center;">🧠 Currently Learning</h1>
+# 🧠 Currently Learning
 
-|--------------------------|--------------------------|
-| - Tailwind CSS           | - Project Testing        |
-| - Alpine.js              | - Plotly Dash            |
-| - JavaScript             | - TALL Stack             |
-| - Eloquent Relationships | - Django                 |
-
-
+<table>
+  <tr>
+    <td valign="top">
+      <ul>
+        <li>Tailwind CSS</li>
+        <li>Alpine.js</li>
+        <li>JavaScript</li>
+        <li>Eloquent Relationships</li>
+      </ul>
+    </td>
+    <td valign="top">
+      <ul>
+        <li>Project Testing</li>
+        <li>Plotly Dash</li>
+        <li>TALL Stack</li>
+        <li>Django</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 
 #
