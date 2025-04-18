@@ -44,7 +44,7 @@ I'm a passionate programmer based in the Philippines, currently diving deep into
 🌐 GitHub: DaikiDaiki6
 
 <div align="center">
-  *`"Build, break, learn, repeat."`*
+  <small>Build, break, learn, repeat.</small>
 </div>
 
 # Addition Information
