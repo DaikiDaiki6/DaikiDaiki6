@@ -19,7 +19,7 @@ I'm a passionate programmer based in the Philippines, currently diving deep into
 "Build, break, learn, repeat."
 
 <h1 style="text-align: center;">🧠 Currently Learning</h1>
-_______________________________________________________
+
 |--------------------------|--------------------------|
 | - Tailwind CSS           | - Project Testing        |
 | - Alpine.js              | - Plotly Dash            |
