@@ -18,21 +18,25 @@ I'm a passionate programmer based in the Philippines, currently diving deep into
 
 "Build, break, learn, repeat."
 
+<h1 style="text-align: center;">Currently Learning</h1>
+
+<div style="display: flex; flex-wrap: wrap;">
+    <div style="flex: 50%; padding: 10px; box-sizing: border-box;">
+        <ul style="list-style-type: disc; margin: 0; padding-left: 20px;">
+            <li>Tailwind CSS</li>
+            <li>Alpine.js</li>
+            <li>JavaScript</li>
+            <li>Eloquent Relationships</li>
+        </ul>
+    </div>
+    <div style="flex: 50%; padding: 10px; box-sizing: border-box;">
+        <ul style="list-style-type: disc; margin: 0; padding-left: 20px;">
+            <li>Project Testing</li>
+            <li>Plotly Dash</li>
+            <li>TALL Stack</li>
+            <li>Django</li>
+        </ul>
+    </div>
+</div>
 
 
-🧠 Currently Learning
-Tailwind CSS
-
-Alpine.js
-
-JavaScript
-
-Eloquent Relationships
-
-Project Testing
-
-Plotly Dash
-
-TALL Stack
-
-Django
