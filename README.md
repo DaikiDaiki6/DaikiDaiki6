@@ -13,8 +13,8 @@
 
 - 🔭 I’m currently working on **Shows List Website**
 - 🌱 I’m currently learning **[e.g. Laravel, Alpine, Livewire, Tailwind, Python, Machine Learning]**
-- 💬 Ask me about **[topics you love talking about]**
-- 📫 How to reach me: **[jeffreymdaqs@gmail.com]**
+- 💬 Ask me about **Music, Shows, and Programming**
+- 📫 How to reach me: **jeffreymdaqs@gmail.com**
 - ⚡ Fun fact: *[an aspiring artist and musician]*
 
 ---
