@@ -41,10 +41,13 @@ I'm a passionate programmer based in the Philippines, currently diving deep into
   </tr>
 </table>
 
-
 #
 <details>
- <summary><h3>👨‍💻 Daiki's Coding Journey</h3></summary>
+  <summary>👨‍💻 Daiki's Coding Journey</summary>
+  
+  ### About My Journey
+  
   I started coding as a computer science student with the interest of becoming an developer in the tech industry. The university taught basic knowledge, from the fundamentals of programming to developing a working ERP system. I learned Python as my main programming language and developed the Pymon Compiler that is available through a GitHub repo. I helped as a support programmer in developing the Employee Portal. I trained as an MIS Intern to socialize and train how to work in the real workplace. And now I am learning with frameworks and web development, Laravel Tall Stack and a little Django, to boost my knowledge and confidence in my journey to the industry!
+</details>
 
 
