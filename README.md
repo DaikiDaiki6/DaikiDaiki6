@@ -1,8 +1,8 @@
-<h1 align="center">Hi there 👋, I'm [Your Name]</h1>
-<h3 align="center">A passionate [your role or title, e.g. Full Stack Developer] from [Your Country]</h3>
+<h1 align="center">Hi there 👋, I'm Jeffrey Daquigan (Daiki)</h1>
+<h3 align="center">A passionate Programmer from Philippines</h3>
 
 <p align="center">
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/DaikiDaiki6">
     <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=blue" alt="profile views"/>
   </a>
 </p>
@@ -11,35 +11,49 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 I’m currently working on **[Your Project Name]**
-- 🌱 I’m currently learning **[e.g. Laravel, React, Machine Learning]**
+- 🔭 I’m currently working on **Shows List Website**
+- 🌱 I’m currently learning **[e.g. Laravel, Alpine, Livewire, Tailwind, Python, Machine Learning]**
 - 💬 Ask me about **[topics you love talking about]**
-- 📫 How to reach me: **[your email or contact link]**
-- ⚡ Fun fact: *[a short quirky fact about you]*
+- 📫 How to reach me: **[jeffreymdaqs@gmail.com]**
+- ⚡ Fun fact: *[an aspiring artist and musician]*
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+### Languages  
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)  
+![PHP](https://img.shields.io/badge/-PHP-333?style=flat&logo=php)  
+![CSS](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3&logoColor=1572B6)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
-![PHP](https://img.shields.io/badge/-PHP-333?style=flat&logo=php)
 
-### Frameworks & Tools
-![Laravel](https://img.shields.io/badge/-Laravel-333?style=flat&logo=laravel)
-![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333?style=flat&logo=tailwind-css)
+### Frameworks & Tools  
+![Laravel](https://img.shields.io/badge/-Laravel-333?style=flat&logo=laravel)  
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333?style=flat&logo=tailwind-css)  
+![Alpine.js](https://img.shields.io/badge/-Alpine.js-333?style=flat&logo=alpine.js)  
+![Django](https://img.shields.io/badge/-Django-333?style=flat&logo=django)  
+![Plotly Dash](https://img.shields.io/badge/-Plotly%20Dash-333?style=flat&logo=plotly)
 
-### Databases
-![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat&logo=mysql)
+### Databases  
+![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat&logo=mysql)  
 ![SQLite](https://img.shields.io/badge/-SQLite-333?style=flat&logo=sqlite)
 
-### Tools
-![VS Code](https://img.shields.io/badge/-VS%20Code-333?style=flat&logo=visual-studio-code)
-![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
+### Tools  
+![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)  
+![VS Code](https://img.shields.io/badge/-VS%20Code-333?style=flat&logo=visual-studio-code)  
 ![Figma](https://img.shields.io/badge/-Figma-333?style=flat&logo=figma)
+
+---
+
+## 🌱 Currently Learning  
+- Tailwind CSS  
+- Alpine.js  
+- JavaScript  
+- Eloquent Relationships (DB Handling)  
+- Project Testing  
+- Plotly Dash  
+- TALL Stack  
+- Django
 
 ---
 
