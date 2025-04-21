@@ -29,7 +29,7 @@ I'm a passionate programmer based in the Philippines, currently diving deep into
 
 <!-- Tools -->
 <img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="30px" src="https://img.icons8.com/ios-filled/50/ffffff/github.png" style="padding-right:10px;" />
 <img align="left" alt="VS Code" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Figma" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/figma/figma-original.svg" style="padding-right:10px;" />
 
