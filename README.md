@@ -3,7 +3,9 @@
 
 I'm a passionate programmer based in the Philippines, currently diving deep into modern full-stack web development. I build things from it's front-end interfaces or back-end logic—and I love to learn, create, and iterate. I am trying to pursue Full Stack Dev. When I'm not coding, I'm either doing art illustrations or making music 🎵🎨.
 
-<p align="left"> <a href="https://github.com/DaikiDaiki6"> <img src="https://komarev.com/ghpvc/?username=DaikiDaiki6&style=for-the-badge&color=blue" alt="Profile views"/> </a> <a href="https://www.linkedin.com/in/jeffrey-daquigan/"> <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="mailto:jeffreymdaqs@gmail.com"> <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> </a> </p>
+<p align="left"> <a href="https://github.com/DaikiDaiki6"> <img src="https://komarev.com/ghpvc/?username=DaikiDaiki6&style=for-the-badge&color=blue" alt="Profile views"/> </a> 
+  <a href="https://www.linkedin.com/in/jeffrey-daquigan/"> <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> 
+  <a href="mailto:jeffreymdaqs@gmail.com"> <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> </a> </p>
 
 <h2>🧰 Languages and Tools</h2>
 
