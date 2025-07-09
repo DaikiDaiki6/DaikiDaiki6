@@ -58,6 +58,14 @@ I'm a passionate programmer based in the Philippines, currently diving deep into
 
 *Technologies: C#, ASP.NET Core, Entity Framework Core, JWT, SQLite, FluentValidation, Swagger*
 
+### 🌐 Yomimasu Comic Reader Website
+**Comic Reader Website**
+- **Made using Laravel PHP, Tailwind CSS, AlpineJS and Livewire
+- **MVC Architecture
+- **API Integration for website information
+
+*Technologies: Laravel, PHP, Tailwind CSS, Alpines Js, Livewire, API, Sqlite
+
 ### 🐍 Pymon Compiler
 **Custom programming language compiler built in Python**
 - Lexical analysis and syntax parsing
