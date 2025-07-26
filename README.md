@@ -19,6 +19,7 @@ I'm a passionate programmer based in the Philippines, currently diving deep into
 <img align="left" alt="Django" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/django/django-plain.svg" style="padding-right:10px;" />
 
 <!-- Web Fundamentals -->
+<img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" alt="PHP" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/php/php-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
